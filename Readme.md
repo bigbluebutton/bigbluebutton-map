@@ -1,11 +1,11 @@
 # BigBlueButton Adopter's Map
 
-This is the repository for the [map](http://bbbmap.uos.de) of [BigBlueButton](https://bigbluebutton.org/) adopters.
+This is the repository for the [map](https://map.bigbluebutton.org of BigBlueButton) adopters.
 The map shows the locations of participating BigBlueButton installations.
 
 ## Get Your Installation on the Map!
 
-If you have a BigBlueButton installation and would like it to appear on the map, just create a [pull request](https://github.com/elan-ev/bigbluebutton-map/pulls) where you add your data to the file [adopters.geojson](adopters.geojson).
+If you have a BigBlueButton installation and would like it to appear on the map, just create a [pull request](https://github.com/bigbluebutton/bigbluebutton-map/pulls) where you add your data to the file [adopters.geojson](adopters.geojson).
 To do so, add this object with your data as a new line `features`-list in said file:
 
 ```json
