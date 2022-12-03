@@ -1,6 +1,6 @@
 # BigBlueButton Adopter's Map
 
-This is the repository for the [map](https://map.bigbluebutton.org of BigBlueButton) adopters.
+This is the repository for the [map of BigBlueButton](https://map.bigbluebutton.org) adopters.
 The map shows the locations of participating BigBlueButton installations.
 
 ## Get Your Installation on the Map!
